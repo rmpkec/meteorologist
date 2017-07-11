@@ -317,4 +317,4 @@ Then, replace whichever part of the static markup you want to with embedded Ruby
   [1]: http://www.ruby-doc.org/core-2.2.1/String.html
   [2]: https://developer.forecast.io/
   
-  #2
+  #3
